@@ -421,7 +421,7 @@ ul li{
 	width: 100%;
 	height: 100%;
 	background-image: url(img/-e-开福寺.png);
-	background-position: center;
+	background-position: right 10% top;
 	background-repeat: no-repeat;
 	background-size:270px 152px;
 }
@@ -533,6 +533,12 @@ ul li{
 .footer p{
 	padding-top: 10px;
 }
+.footer img{
+	margin-left: 2%;
+	width: 3%;
+	height: 3%;
+}
+
 @font-face {
 	font-family:'pingfang';
 	src: url('pingfang.ttf'),url('PingFang.ttc');
