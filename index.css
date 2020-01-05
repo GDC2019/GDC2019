@@ -531,13 +531,30 @@ ul li{
 	font-size: 13px;
 	color: #333333;
 }
+
+.footer{
+	position: relative;
+	width:100%;
+	height:30px;
+}
+
 .footer p{
 	padding-top: 10px;
 }
+
+/*
 .footer img{
+
 	margin-left: 2%;
-	width: 3%;
-	height: 3%;
+	width: auto;
+	height: 2%;
+}
+*/
+
+.footer img{
+	top: 0;
+	left: 0;
+	height: 100%;
 }
 
 @font-face {
