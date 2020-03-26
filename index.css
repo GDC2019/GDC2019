@@ -596,3 +596,11 @@ font-family:Arial Black, Gadget, sans-serif;
 	  margin-top: 5px;
   }
 }
+
+.notice{
+	margin-left: 30px;
+	margin-bottom: 20px;
+	font-size: 27px;
+	font-weight: bolder;
+	color: red;
+}
