@@ -7,7 +7,7 @@ em { font-style:normal; font-weight: 1000; color: #2E2F4E}
 input, button, select, textarea { outline:none; } 
 textarea { resize:none; } 
 p{ text-align:justify; text-justify:distribute;}
-notice{ font-style:normal; font-weight: 1000; color: #E04407}
+notice{ font-size:24px; font-style:normal; font-weight: 1000; color: #E04407}
 /*======== Link ========*/
 a { color: #666; text-decoration:none; }
 
