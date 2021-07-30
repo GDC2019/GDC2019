@@ -502,12 +502,12 @@ ul li{
 	width: calc(100% - 253px);
 }
 .Sponsor{
-	height: 400px;
+	height: 950px;
 	width:100%;
 	background-image:url(img/-e-橘子洲插图.png);
-	background-position: center;
+	background-position: right top;
 	background-repeat: no-repeat;
-	background-size:100% 80%;
+	background-size:100%;
 }
 .Sponsor>div>p{
 	margin-top: 20px;
